@@ -1,6 +1,10 @@
 # ASCII-image-generator
 A program to convert images into ascii art using TerminalGraphics Rajas-S  
-This project is a branch of my TerminalGraphics project and is merely an advanced demonstration  
+This project is a branch of my TerminalGraphics project and is merely an advanced demonstration    
+  
+If you are using Windows - by pressing '.' you can make the image darker and ',' to make the image lighter  
+(these actions changes tileset by dding space padding at the beginning creating this darker/lighten effect)  
+THIS DARKEN/LIGHTER HAS THE SAME EFFECT AS SHARPEN/BLUR respectively.   
   
 # How to use:  
 1. place your image file in the same place as a python script where it is run (same directory)  
