@@ -42,6 +42,7 @@ int main() {
 			}
 		}
 	}*/
+	tgl.render();
 	while (true) {
 		if (_kbhit()) {
 			if (_getch() == '.') {
